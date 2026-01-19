@@ -1,0 +1,14 @@
+# Git directory
+.git
+
+# Wrangler temporary files
+.wrangler
+
+# Node modules
+node_modules
+
+# IDE files
+.vscode
+.idea
+*.swp
+*.swo
